@@ -1,3 +1,7 @@
+
+
+This Project for WATS 4000 is a demonstrationn of how I am to create my first Vue.js Web App. 
+
 # test
 
 ## Project setup
